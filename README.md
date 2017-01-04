@@ -2,7 +2,11 @@
 
 #### Epicodus | 08.19.16
 ###### _By **Kyle Fisher** and **Peter Armington**_
+---
+---
+![sample screenshot](pigtactoe.png)
 
+https://github.com/FisherKyle/pig-tac-toe-js.git
 ## **//** Description
 
 A front end app that simulates a game of tic-tac-toe.
